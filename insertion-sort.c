@@ -23,8 +23,8 @@ void insertionSort( int arr[], int n ){
 
 int main(){
 
-  int arr[] = {4, 16 , 9, -1, 3};
-  int n = 5;
+  int arr[] = {42, 7, 19, 3, 56, 12, 89, 1, 34, 25, 68, 5, 73, 16, 9};
+  int n = 15;
 
 
   printarr(arr,n);
